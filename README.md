@@ -10,7 +10,7 @@ Dans le monde internet ce langage vous permet d'en tirer avantage.
 J'utilise souvent le framework Symfony car il est sécurisé et très polyvalent.
 
 ## Mes repositories
-Software Development	Back/Front-end Web	OS	Database	Software
+Ils sont actuellement tous en privés
 
 ## Mes compétences
 |Software Development|Back/Front-end Web|OS|Database|Software
