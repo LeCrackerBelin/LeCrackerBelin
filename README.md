@@ -1,21 +1,22 @@
-# LeCrackerBelin
+# <span style="color: #f1c40f;">LeCrackerBelin</span>
 
-## *Le dev en PHP*
+## *Le développement*  
 
- [![N|Solid](https://www.php.net//images/logos/php-power-white.png) <img src=":/4ad13fba7a9d41339bb4a46257b678cb" alt="b9ecb2b6e3a65fec43a014394a29fcd6.png" width="39" height="33">](https://nodesource.com/products/nsolid)
+[![N|Solid](https://www.php.net//images/logos/php-power-white.png)](https://nodesource.com/products/nsolid)  
+[![N|Solid](https://www.gstatic.com/devrel-devsite/prod/vda41147226ae308b24384f785d31d739107d2716272d99cd11c490ff3892954d/android/images/lockup-dark-theme.svg)](https://nodesource.com/products/nsolid)
 
-Je suis inspiré par ce langage de programmation qui est puissant simple et efficace.  
-<br/>Dans le monde internet ce langage vous permet d'en tirer avantage.
+Je suis inspiré par ces langages de programmation qui sont puissants, simples et efficaces.  
+<br/>Dans le monde internet ces langages vous permettent d'en tirer avantage.
 
-J'utilise souvent le framework Symfony car il est sécurisé et très polyvalent.
+J'utilise souvent le `framework` `Symfony` car il est sécurisé et très polyvalent.
 
-## Mes repositories
+## Mes `repositories`
 
 Ils sont actuellement tous en privés
 
 ## Mes compétences
 
-| Software Development | Back/Front-end Web | OS  | Database | Software |
+| <span style="color: #ffffff;">`Software Development`</span> | `Back/Front-end Web` | `OS` | `Database` | `Software` |
 | --- | :---: | :---: | :---: | ---: |
 | Shell | HTML | Windows | PostgreSQL | JetBrains |
 | Python | CSS | MacOs | MongoDB | Android Studio |
